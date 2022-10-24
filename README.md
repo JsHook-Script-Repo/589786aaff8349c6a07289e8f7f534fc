@@ -20,4 +20,4 @@
 * JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动
   
 ## 预览
-![image](https://i.imgur.com/MiB2OBC.jpg)
+![image](https://i.imgur.com/eiX2Jp0.jpg)
