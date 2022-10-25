@@ -23,9 +23,9 @@
 7. 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
 8. 打开BlackBox64 -> 打开JsHook -> 应用 -> LiveAHero -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置1000 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
 9. 弹出“不支持Google Play服务”提示可以无视，实在不想看到可以BlackBox64安装以下3个APK解决
-  1. https://github.com/xkeyC/x_google_installer/releases/tag/api28
-  2. https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
-  3. https://github.com/xkeyC/x_google_installer/releases/tag/st82601710
+* https://github.com/xkeyC/x_google_installer/releases/tag/api28
+* https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
+* https://github.com/xkeyC/x_google_installer/releases/tag/st82601710
 #### 游戏更新后：
 * 应该在外部更新游戏就行了？
 
