@@ -19,10 +19,11 @@
 3. 打开BlackBox64 -> 右上角三点 -> 软件设置 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
 4. 打开BlackBox64 -> 点+ -> LiveAHero -> 进入游戏提示下载后关闭
 5. 外部使用文件应用，如MT管理器，把 手机内部存储/Android/data/jp.co.lifewonders.liveahero/files/datas/userkey 复制到 手机内部存储/Android/data/top.niunaijun.blackboxa64/files/blackbox/storage/emulated/0/Android/data/jp.co.lifewonders.liveahero/files/datas/userkey
-6. 打开BlackBox64 -> 打开JsHook -> 框架管理 -> 安装FridaMod
-7. 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
-8. 打开BlackBox64 -> 打开JsHook -> 应用 -> LiveAHero -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置1000 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
-9. 弹出“不支持Google Play服务”提示可以无视，实在不想看到可以BlackBox64安装以下3个APK解决
+6. 上一步也可以直接把 手机内部存储/Android/data/jp.co.lifewonders.liveahero 整个复制到 手机内部存储/Android/data/top.niunaijun.blackboxa64/files/blackbox/storage/emulated/0/Android/data/jp.co.lifewonders.liveahero
+7. 打开BlackBox64 -> 打开JsHook -> 框架管理 -> 安装FridaMod
+8. 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
+9. 打开BlackBox64 -> 打开JsHook -> 应用 -> LiveAHero -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置1000 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
+10. 弹出“不支持Google Play服务”提示可以无视，实在不想看到可以BlackBox64安装以下3个APK解决
 * https://github.com/xkeyC/x_google_installer/releases/tag/api28
 * https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
 * https://github.com/xkeyC/x_google_installer/releases/tag/st82601710
