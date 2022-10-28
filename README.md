@@ -44,7 +44,7 @@ sdcard/Android/data/top.niunaijun.blackboxa64/files/blackbox/storage/emulated/0/
 * https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
 * https://github.com/xkeyC/x_google_installer/releases/tag/st82601710
 #### 游戏更新后：
-* 应该在外部更新游戏就行了？
+* 外部更新游戏就行了，黑盒内部直接链接外部的应用的
 
 ### 普通方法：
 #### 首次执行：
